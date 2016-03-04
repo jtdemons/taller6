@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	margin-top: 15px;
+	font-family: arial;
+}
+h1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+#capicua{
+	margin-top: 20px;
+	text-align: center;
+}
+.valores{
+	display: inline-block;
+	width: 35%;
+	margin-right: 5px;
+}
+.opera{
+	text-align: right;
+}
+.resultado{
+	text-align: left;
+}
+#rango{
+	margin-top: 10px;
+	width: 50%
+}
